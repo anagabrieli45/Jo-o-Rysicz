@@ -7,3 +7,12 @@ h1 {
 	text-align: center;
 	color: #FF2F53;
 }
+
+#capa {
+	height: 800px;
+	width: 1900px;
+}
+
+p {
+	text-align: center;
+}

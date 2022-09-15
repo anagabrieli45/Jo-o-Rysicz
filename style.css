@@ -9,8 +9,12 @@ h1 {
 }
 
 #capa {
-	height: 800px;
-	width: 1900px;
+	height: 700px;
+	width: 1200px;
+	padding: 5px ;
+	margin-left: 350px;
+	border:solid #FF2F53;
+
 }
 
 p {
